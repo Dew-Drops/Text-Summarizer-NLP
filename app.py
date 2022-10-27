@@ -10,6 +10,7 @@ from os import *
 from sys import * 
 from os.path import *
 from io import BytesIO, IOBase
+x,y,z,w,a,b=0,0,0,0,0,0
 #-------------------------------------------
 def sentence_similarity(sent1, sent2, stopwords=None):
     if stopwords is None:

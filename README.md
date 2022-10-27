@@ -8,10 +8,9 @@ It is made using Python-Flask, Bootstrap and nltk library -Natural Language Proc
 
 # Screenshots
 ### Front Page
-![Index page](https://github.com/Dew-Drops/Text-Summarizer-NLP/blob/main/Annotation%202022-10-27%20153143.png)
-### Result Page
 ![front page](https://github.com/Dew-Drops/Text-Summarizer-NLP/blob/main/Annotation%202022-10-27%20153045.png)
-
+### Result Page
+![Index page](https://github.com/Dew-Drops/Text-Summarizer-NLP/blob/main/Annotation%202022-10-27%20153143.png)
 
 # Authors
 - [@Rohit Lohar (2019UCP1373)](https://www.linkedin.com/in/rohit-lohar-297627200/) MNIT, Jaipur
